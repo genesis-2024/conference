@@ -1043,7 +1043,7 @@ blockquote {
 }
 
 /* tabs */
-.nav-tabs>li>a:hover {
+.nav-tabs>li>a:hover, #relatori .nav-tabs>li>a:hover {
     color: #6B6A6A;
 }
 
