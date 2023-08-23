@@ -1,7 +1,8 @@
-# Giornata di studio DH
- Sito di presentazione dell'evento "GIORNATA DI STUDIO, LE DIGITAL HUMANITIES - DALLA SCUOLA AL LAVORO" 
+# Genesis Bologna 2024 Conference
+Conference website of "Genesis Bologna 2024".
 
- # Academic Event Template
+Development based on:
+## Academic Event Template
 
 <b>Template Demo</b>: https://martinadellobuono.github.io/academicevent-template/
 
