@@ -1,5 +1,7 @@
 # Genesis Bologna 2024 Conference
-Conference website of "Genesis Bologna 2024".
+Conference website of "Genesis Bologna 2024":
+
+https://genesis-2024.github.io/conference/
 
 Development based on:
 ## Academic Event Template
