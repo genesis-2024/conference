@@ -420,10 +420,10 @@ a.nav-item {
 .moderator {
     font: 12px;
     background: #F0F0F0;
-    border-radius: 37px;
+    border-radius: 30px;
     color: #6B6A6A;
-    padding: 0.6px 10px;
-    line-height: 1.6;
+    padding: 10px 20px;
+    line-height: 25px;
 }
 
 .program-row {
