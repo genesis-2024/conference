@@ -1050,3 +1050,15 @@ blockquote {
 #relatori .nav-tabs>li>a {
     color: #FEFEFE;
 }
+
+/* modals */
+.modal h4 {
+    color: #333333;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.modal-body {
+    color: #333333;
+    text-align: left;
+}
