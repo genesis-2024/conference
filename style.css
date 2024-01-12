@@ -1075,12 +1075,17 @@ blockquote {
     background-size: cover;
 }
 
-#profile-raboni {
-    background-image: url("https://personale.unipr.it/sites/shpp/files/styles/lunga/public/foto/23-11-2019/IMG-20190222-WA0001.jpg?itok=-O5F1PFe");
+#profile-dionisio {
+    background-image: url("https://www.clul.ulisboa.pt/sites/default/files/styles/retrato_medio/public/pictures/2019-10/JoaoDionisio.jpg?itok=DEwFE1lf");
     background-size: cover;
 }
 
 #profile-ferrer {
     background-image: url("http://www.item.ens.fr/wp-content/uploads/2023/03/2023-03-25_2018-10-11_mini_Daniel%20Ferrer.png");
+    background-size: cover;
+}
+
+#profile-raboni {
+    background-image: url("https://personale.unipr.it/sites/shpp/files/styles/lunga/public/foto/23-11-2019/IMG-20190222-WA0001.jpg?itok=-O5F1PFe");
     background-size: cover;
 }
