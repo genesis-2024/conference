@@ -672,9 +672,9 @@ a.nav-item {
     border: solid 3px #FEFEFE;
     border-radius: 50%;
     display: block;
-    height: 20vh;
+    height: 15vh;
     margin: 20px auto;
-    width: 20vh;
+    width: 15vh;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -1070,7 +1070,17 @@ blockquote {
     color: #FEFEFE;
 }
 
+#profile-bryant {
+    background-image: url("https://lh5.googleusercontent.com/wRvz7Ey9rn_d2PlJoOJBavTTnyIo5JjfoHRWaanUfh33iBGxFaqcpXqhcdxdUsSggcNmFudumelZbsXEqcYlOzo=w16383");
+    background-size: cover;
+}
+
 #profile-raboni {
     background-image: url("https://personale.unipr.it/sites/shpp/files/styles/lunga/public/foto/23-11-2019/IMG-20190222-WA0001.jpg?itok=-O5F1PFe");
+    background-size: cover;
+}
+
+#profile-ferrer {
+    background-image: url("http://www.item.ens.fr/wp-content/uploads/2023/03/2023-03-25_2018-10-11_mini_Daniel%20Ferrer.png");
     background-size: cover;
 }
