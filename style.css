@@ -576,6 +576,27 @@ a.nav-item {
     padding: 2.6px 16px !important;
 }
 
+.button-round-reverse {
+    background-color: transparent;
+    border: 2px solid #001A4C;
+    border-radius: 37px !important;
+    color: #001A4C !important;
+    font-size: 16px !important;
+    font-weight: 700;
+    margin: 10px 0 14px;
+    padding: 2.6px 16px !important;
+}
+
+.button-round-reverse:hover {
+    background-color: #001A4C;
+    border: 1px solid #001A4C !important;
+    border-radius: 37px !important;
+    color: #fff !important;
+    font-size: 16px !important;
+    margin: 10px 0 14px;
+    padding: 2.6px 16px !important;
+}
+
 .button-round-beige:hover {
     background-color: #FEFEFE;
     border: 1px solid #FEFEFE !important;
