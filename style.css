@@ -676,10 +676,24 @@ a.nav-item {
 /* Time */
 .time-span {
     background: #9A7F1E2B;
+    border: 1px solid transparent;
     border-radius: 37px;
     color: #6B6A6A;
     padding: 5px;
     font-size: 15px;
+}
+
+a > .time-span:hover {
+    background: #9A7F1E4A;
+    border: 1px solid transparent;
+    border-radius: 37px;
+    color: #6B6A6A;
+    padding: 5px;
+    font-size: 15px;
+}
+
+h3 > .time-span {
+    cursor: default;
 }
 
 .time-border {
