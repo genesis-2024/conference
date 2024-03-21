@@ -52,6 +52,11 @@ body {
     padding: 0;
 }
 
+.padding-x-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .padding-section {
     padding: 13vh 0 13vh 0;
 }
@@ -191,6 +196,11 @@ body {
 
 .color-white {
     color: #FEFEFE;
+}
+
+/* background */
+.bg-white {
+    background-color: #FEFEFE;
 }
 
 /* borders */
