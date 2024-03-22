@@ -11,6 +11,7 @@ body {
     font-size: 18px !important;
     -webkit-font-smoothing: antialiased;
     font-family: "Cormorant Garamond", serif !important;
+    overflow-x: hidden;
 }
 
 /* Display */
@@ -693,7 +694,7 @@ a.nav-item {
     font-size: 15px;
 }
 
-a > .time-span:hover {
+a>.time-span:hover {
     background: #9A7F1E4A;
     border: 1px solid transparent;
     border-radius: 37px;
@@ -702,7 +703,7 @@ a > .time-span:hover {
     font-size: 15px;
 }
 
-h3 > .time-span {
+h3>.time-span {
     cursor: default;
 }
 
@@ -1124,8 +1125,40 @@ blockquote {
 }
 
 /* speakers */
+.speakers-generator {
+    height: 30vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+/* scrollbar */
+.speakers-generator::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+.speakers-generator::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #FEFEFE;
+}
+
+.speakers-generator::-webkit-scrollbar-thumb:hover {
+    background-color: #D8D8D8;
+}
+
+.speakers-generator::-webkit-scrollbar-thumb:active {
+    background-color: #D8D8D8;
+}
+
+/* / */
+
 .profile-title {
     color: #FEFEFE;
+}
+
+#profile-bolzoni {
+    background-image: url("https://www.sns.it/sites/default/files/ugov_fotopersona_8941.jpg");
+    background-size: cover;
 }
 
 #profile-bryant {
