@@ -108,9 +108,14 @@ var arr = [
             "img": "img/speakers/profile-furtado-moreira.jpg"
         },
         {
+            "name": "Daniele Fusi",
+            "bio": "https://www.srcts.uni-stuttgart.de/team/Fusi/",
+            "img": "img/speakers/profile-fusi.jpg"
+        },
+        {
             "name": "Cynthia Gabbay",
-            "bio": "https://cmb.hu-berlin.de/team/profil/cynthia-gabbay",
-            "img": "https://cmb.hu-berlin.de/fileadmin/_processed_/2/d/csm_2011-04-08_17.14.59_8b0cfac9a6.jpg"
+            "bio": "https://jewishtraduc.hypotheses.org/bio",
+            "img": "img/speakers/profile-gabbay.jpg"
 
         },
         {
@@ -409,6 +414,16 @@ var arr = [
             "img": "img/speakers/profile-zilli.jpg"
         },
         {
+            "name": "Claus Zittel",
+            "bio": "https://www.unive.it/data/people/22090108",
+            "img": "https://www.unive.it/pag/fileadmin/user_upload/img/persone/22090108.jpg"
+        },
+        {
+            "name": "Matteo Zupancic",
+            "bio": "https://studigermanici.academia.edu/MatteoZUPANCIC",
+            "img": "https://0.academia-photos.com/46211685/14167320/117549722/s200_matteo.zupancic.jpg"
+        },
+        {
             "name": "Sandra Cristina de Jesus Bôto",
             "bio": "https://novaresearch.unl.pt/en/persons/sandra-cristina-jesus-boto",
             "img": "https://novaresearch.unl.pt/files-asset/27321540/unnamed.jpg?w=160&f=webp"
@@ -421,54 +436,88 @@ var arr = [
         ],
         "may-11": [{
             "name": "Irene Cappelletti",
+            "bio": "https://usi-ch.academia.edu/IreneCappelletti",
+            "img": "img/speakers/profile-cappelletti.jpg"
         },
         {
             "name": "Valerio Cellai",
+            "bio": "https://www.fileli.unipi.it/studi-italianistici/dottori-dottorandi/dottorandi-di-ricerca-xxxvi-ciclo-a-a-2020-21/",
+            "img": "img/speakers/profile-cellai.jpg"
         },
         {
             "name": "Laura Costanza",
+            "bio": "https://www.sns.it/it/persona/laura-costanza",
+            "img": "https://www.sns.it/sites/default/files/1698414375.png"
         },
         {
             "name": "Łukasz Cybulski",
+            "bio": "https://www.researchgate.net/profile/Lukasz-Cybulski-3",
+            "img": "https://i1.rgstatic.net/ii/profile.image/1101986506256384-1639745465049_Q128/Lukasz-Cybulski-3.jpg"
         },
         {
             "name": "Antonio Di Silvestro",
+            "bio": "https://www.disum.unict.it/docenti/antonio.disilvestro",
+            "img": ""
         },
         {
             "name": "Federico Diamanti",
+            "bio": "https://www.unive.it/data/persone/25138381",
+            "img": "img/speakers/profile-diamanti.jpg"
         },
         {
             "name": "Valentina Gritti",
+            "bio": "https://docente.unife.it/valentina.gritti/",
+            "img": "img/speakers/profile-gritti.jpg"
         },
         {
             "name": "Fabio Jermini",
+            "bio": "https://www.researchgate.net/profile/Fabio-Jermini",
+            "img": "img/speakers/profile-jermini.jpg"
         },
         {
             "name": "Franz Johansson",
+            "bio": "http://www.item.ens.fr/johansson/",
+            "img": "http://www.item.ens.fr/wp-content/uploads/2017/10/2017-10-02_mini_Tension%20du%20cosmique%20(7).jpeg"
         },
         {
             "name": "Tomasz Mika",
+            "bio": "",
+            "img": ""
         },
         {
             "name": "Beatrice Mosca",
+            "bio": "https://uniecampus.academia.edu/BeatriceMosca",
+            "img": "img/speakers/profile-mosca.jpg"
         },
         {
             "name": "Mark Nixon",
+            "bio": "https://www.reading.ac.uk/english-literature/our-staff/mark-nixon",
+            "img": "https://www.reading.ac.uk/english-literature/-/media/project/uor-main/schools-departments/english-literature/staff/mark-nixon.jpg"
         },
         {
             "name": "Diana Perego",
+            "bio": "https://www.unimib.it/diana-perego",
+            "img": "https://www.unimib.it/sites/default/files/foto/10-01-2021/foto_cv_2019.jpg"
         },
         {
             "name": "Giulia Perucchi",
+            "bio": "https://www.dilass.unich.it/node/9976",
+            "img": "https://www.dilass.unich.it/sites/st06/files/styles/paragrafo/public/perucchi_foto_dilass.jpg?itok=M71PxC1U"
         },
         {
             "name": "Anna Terroni",
+            "bio": "",
+            "img": "img/speakers/profile-terroni.jpg"
         },
         {
-            "name": "Dirk Van Hulle"
+            "name": "Dirk Van Hulle",
+            "bio": "https://www.english.ox.ac.uk/people/professor-dirk-van-hulle",
+            "img": "https://www.english.ox.ac.uk/sites/default/files/styles/person_profile_photo/public/english/images/page/portrait_dirk_van_hulle.jpg?itok=cCQTun0h"
         },
         {
-            "name": "Alessandro Zammataro"
+            "name": "Alessandro Zammataro",
+            "bio": "https://www.mod-langs.ox.ac.uk/people/alessandro-zammataro",
+            "img": "https://0.academia-photos.com/5563982/6263124/18217129/s200_alessandro.zammataro.jpg"
         }]
     }
 ];
