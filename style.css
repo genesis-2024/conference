@@ -1197,7 +1197,7 @@ blockquote {
 }
 
 .xl-registration {
-    display: inline;
+    display: block;
 }
 
 .xs-registration {
