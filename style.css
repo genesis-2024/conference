@@ -460,7 +460,7 @@ a.nav-item {
 
 @media only screen and (max-width: 1024px) {
     .nav a {
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 
@@ -813,7 +813,7 @@ h3>.time-span {
 
     /* Logo */
     img.mobile-home-img.center {
-        height: 15%;
+        height: 10%;
         width: auto;
     }
 
@@ -879,7 +879,7 @@ h3>.time-span {
 
     /* Copyright */
     .copyright-title {
-        font-size: 10px;
+        font-size: 14px;
     }
 }
 
@@ -1189,4 +1189,42 @@ blockquote {
 #profile-sutherland {
     background-image: url("https://www.english.ox.ac.uk/sites/default/files/styles/person_profile_photo/public/english/images/person/kathryn%20sutherland.jpg?itok=-0WdKKAF");
     background-size: cover;
+}
+
+/* registration */
+.chessboard {
+    height: 450px;
+}
+
+.xl-registration {
+    display: inline;
+}
+
+.xs-registration {
+    display: none;
+}
+
+/* MOBILE */
+@media (max-width: 991px) {
+    .chessboard {
+        height: auto;
+    }
+
+    .xl-registration {
+        display: none;
+    }
+
+    .xs-registration {
+        display: inline;
+    }
+
+    .button-round-beige {
+        color: #333333 !important;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .thumbnail {
+        height: auto;
+    }
 }

@@ -84,8 +84,8 @@ var arr = [
         },
         {
             "name": "Nathalie Ferrand",
-            "bio": "http://www.nferrand.info/page_personnelle/Accueil.html",
-            "img": "http://www.nferrand.info/page_personnelle/Accueil_files/DSCF1112.jpg"
+            "bio": "http://www.item.ens.fr/ferrand/",
+            "img": "img/speakers/profile-ferrand.jpg"
         },
         {
             "name": "Chiara Ferrara",
