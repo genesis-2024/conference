@@ -429,9 +429,9 @@ var arr = [
             "img": "https://novaresearch.unl.pt/files-asset/27321540/unnamed.jpg?w=160&f=webp"
         },
         {
-            "name": "Dovil ė Gervytė",
+            "name": "Dovile ė Gervytė",
             "bio": "",
-            "img": ""
+            "img": "img/speakers/profile-gervytė.jpg"
         }
         ],
         "may-11": [{
