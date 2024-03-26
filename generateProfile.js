@@ -240,8 +240,8 @@ var arr = [
         },
         {
             "name": "Lorenzo Morviducci",
-            "bio": "",
-            "img": ""
+            "bio": "https://www.ssmeridionale.it/it-it/dottorato/rubriche/testi-tradizioni-e-culture-del-libro-studi-italiani-e-romanzi-ttcl-3120-1-081c51c892ba7674397960ab2c6c62b9?attivita-didattica-14401#hattivita-didattica",
+            "img": "img/speakers/profile-morviducci.jpg"
         },
         {
             "name": "Kiyoko Myojo",
