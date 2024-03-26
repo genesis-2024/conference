@@ -55,7 +55,7 @@ var arr = [
         {
             "name": "Giorgia Crosilla",
             "bio": "https://giorgiacrosilla.github.io/giorgiacrosilla/ ",
-            "img": ""
+            "img": "img/speakers/profile-crosilla.jpg"
         },
         {
             "name": "Rosy Cupo",
@@ -185,8 +185,8 @@ var arr = [
         },
         {
             "name": "Leyla M.G. Livraghi",
-            "bio": "https://esami.unipi.it/esami2/programma.php?pg=ects&c=57541",
-            "img": ""
+            "bio": "https://unimap.unipi.it/cercapersone/dettaglio.php?ri=151740",
+            "img": "img/speakers/profile-livraghi.jpg"
         },
         {
             "name": "Roger Lüdeke",
