@@ -452,7 +452,7 @@ var arr = [
         {
             "name": "Łukasz Cybulski",
             "bio": "https://www.researchgate.net/profile/Lukasz-Cybulski-3",
-            "img": "https://i1.rgstatic.net/ii/profile.image/1101986506256384-1639745465049_Q128/Lukasz-Cybulski-3.jpg"
+            "img": "img/speakers/profile-cybulski.jpg"
         },
         {
             "name": "Antonio Di Silvestro",
