@@ -310,8 +310,8 @@ var arr = [
         },
         {
             "name": "Pascale Sardin",
-            "bio": "http://www.item.ens.fr/sardin/",
-            "img": "http://www.item.ens.fr/wp-content/uploads/2022/11/2022-11-03_mini_sardin.png"
+            "bio": "https://cv.hal.science/pascale-sardin",
+            "img": "img/speakers/profile-sardin.jpg"
         },
         {
             "name": "Anna Saroldi",
