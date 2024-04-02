@@ -215,8 +215,8 @@ var arr = [
         },
         {
             "name": "Dorota Masłej",
-            "bio": "https://one.academia.edu/DorotaMas%C5%82ej",
-            "img": "https://0.academia-photos.com/21362842/5889422/6687992/s200_dorota.mas_ej.jpg"
+            "bio": "https://researchportal.amu.edu.pl/info/author/UAM201773?ps=20&lang=en&title=Person+profile+%25E2%2580%2593+Dorota+Mas%25C5%2582ej+%25E2%2580%2593+Adam+Mickiewicz+University&pn=1&cid=664933",
+            "img": "img/speakers/profile-maslej.jpg"
         },
         {
             "name": "Guido Mazza",
@@ -286,7 +286,7 @@ var arr = [
         {
             "name": "Nadia Podzemskaia",
             "bio": "http://www.item.ens.fr/podzemskaia/",
-            "img": "http://www.item.ens.fr/wp-content/uploads/2020/06/2020-06-04_mini_Nadia.jpg"
+            "img": "img/speakers/profile-podzemskaia.jpg"
         },
         {
             "name": "Veijo Pulkkinen",
