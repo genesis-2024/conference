@@ -276,7 +276,7 @@ var arr = [
         {
             "name": "Filippo Pelacci",
             "bio": "https://dusic.unipr.it/ugov/person/255626",
-            "img": ""
+            "img": "img/speakers/profile-pelacci.jpg"
         },
         {
             "name": "Yi Peng",
