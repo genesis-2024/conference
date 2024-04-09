@@ -59,8 +59,8 @@ var arr = [
         },
         {
             "name": "Rosy Cupo",
-            "bio": "https://docente.unife.it/rosy.cupo/curr",
-            "img": ""
+            "bio": "https://docente.unife.it/rosy.cupo/",
+            "img": "img/speakers/profile-cupo.jpg"
         },
         {
             "name": "Marcin Czerwiński",
@@ -79,8 +79,8 @@ var arr = [
         },
         {
             "name": "Antonio D’Ambrosio",
-            "bio": "https://www.dottoratofilletlin.unifi.it/vp-242-antonio-d-ambrosio.html",
-            "img": ""
+            "bio": "https://corsidilaurea.uniroma1.it/it/users/antoniodambrosiouniroma1it",
+            "img": "img/speakers/profile-dambrosio.jpg"
         },
         {
             "name": "Nathalie Ferrand",
@@ -94,8 +94,8 @@ var arr = [
         },
         {
             "name": "Teresa Filipe",
-            "bio": "https://www.clul.ulisboa.pt/pessoa/cruzfilipe",
-            "img": "https://www.clul.ulisboa.pt/sites/default/files/styles/retrato_medio/public/pictures/2021-05/foto3.jpg?itok=oXoGk7Yt"
+            "bio": "https://www.clul.ulisboa.pt/en/pessoa/cruzfilipe",
+            "img": "img/speakers/profile-filipe.jpg"
         },
         {
             "name": "Franz Fischer",
@@ -160,8 +160,8 @@ var arr = [
         },
         {
             "name": "Ágnes Kelevéz",
-            "bio": "",
-            "img": ""
+            "bio": "https://digiphil.hu/teams/kelevez-agnes/",
+            "img": "img/speakers/profile-kelevez.jpg"
         },
         {
             "name": "Michal Kosák",
@@ -376,7 +376,7 @@ var arr = [
         {
             "name": "Jason Wiens",
             "bio": "https://profiles.ucalgary.ca/jason-wiens",
-            "img": "https://profiles.ucalgary.ca/sites/default/files/styles/ucws_profile_picture/public/2022-03/142641898_212879387195950_3259124209297485485_n.jpg?h=984adb65&itok=QBQFxfr6"
+            "img": "img/speakers/profile-wiens.jpeg"
         },
         {
             "name": "Gabriele Wix",
@@ -477,7 +477,7 @@ var arr = [
         {
             "name": "Franz Johansson",
             "bio": "http://www.item.ens.fr/johansson/",
-            "img": "http://www.item.ens.fr/wp-content/uploads/2017/10/2017-10-02_mini_Tension%20du%20cosmique%20(7).jpeg"
+            "img": "img/speakers/profile-johansson.jpg"
         },
         {
             "name": "Tomasz Mika",
