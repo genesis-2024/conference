@@ -260,8 +260,8 @@ var arr = [
         },
         {
             "name": "Elena Niccolai",
-            "bio": "",
-            "img": ""
+            "bio": "https://docente.unife.it/docenti-en/elena.niccolai/",
+            "img": "img/speakers/profile-niccolai.jpg"
         },
         {
             "name": "Ariadne Nunes",

@@ -254,6 +254,10 @@ body {
     font-style: italic;
 }
 
+.f-n {
+    font-style: normal !important;
+}
+
 .underline {
     cursor: pointer;
     text-decoration: underline;
