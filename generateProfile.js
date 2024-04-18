@@ -29,8 +29,8 @@ var arr = [
         },
         {
             "name": "Solène Audebert-Poulet",
-            "bio": "",
-            "img": ""
+            "bio": "https://www.researchgate.net/profile/Audebert-Poulet-Solene",
+            "img": "img/speakers/profile-pouletsolene.jpg"
         },
         {
             "name": "Floor Buschenhenke",
@@ -50,7 +50,7 @@ var arr = [
         {
             "name": "Mattia Cravero",
             "bio": "https://people.unito.it/do/docenti.pl/Alias?mattia.cravero#tab-profilo",
-            "img": ""
+            "img": "img/speakers/profile-cravero.jpeg"
         },
         {
             "name": "Giorgia Crosilla",
@@ -74,8 +74,8 @@ var arr = [
         },
         {
             "name": "Giuliana Di Febo-Severo",
-            "bio": "",
-            "img": ""
+            "bio": "https://univ-paris3.academia.edu/GiulianaDiFeboSevero",
+            "img": "img/speakers/profile-difebosevero.jpg"
         },
         {
             "name": "Antonio D’Ambrosio",
@@ -120,8 +120,8 @@ var arr = [
         },
         {
             "name": "Hans Walter Gabler",
-            "bio": "",
-            "img": ""
+            "bio": "https://lmu-munich.academia.edu/HansWalterGabler",
+            "img": "img/speakers/profile-gabler.jpg"
         },
         {
             "name": "Alice Gardoncini",
@@ -131,7 +131,7 @@ var arr = [
         {
             "name": "Federica Maria Giallombardo",
             "bio": "https://webapps.unito.it/rubrica/rubricaRisultati.php?tipoRic=mat&matricola=929535",
-            "img": ""
+            "img": "img/speakers/profile-giallombardo.jpg"
         },
         {
             "name": "Milena Giuffrida",
@@ -165,8 +165,8 @@ var arr = [
         },
         {
             "name": "Michal Kosák",
-            "bio": "img/speakers/profile-kosak.jpg",
-            "img": "https://ucl.cas.cz/en/pracovnik/kosak/"
+            "bio": "https://ucl.cas.cz/en/pracovnik/kosak/",
+            "img": "img/speakers/profile-kosak.jpg"
         },
         {
             "name": "Hana Kosáková",
@@ -196,7 +196,7 @@ var arr = [
         {
             "name": "Dino Manca",
             "bio": "https://www.uniss.it/it/ugov/person/456",
-            "img": ""
+            "img": "img/speakers/profile-manca.jpeg"
         },
         {
             "name": "Tiziana Mancinelli",
@@ -236,7 +236,7 @@ var arr = [
         {
             "name": "Chiara Montini",
             "bio": "http://www.item.ens.fr/chiara-montini-vittorio-alfieri-apprendre-la-langue-en-traduisant-et-en-sautotraduisant/",
-            "img": ""
+            "img": "img/speakers/profile-montini.jpg"
         },
         {
             "name": "Lorenzo Morviducci",
@@ -346,7 +346,7 @@ var arr = [
         {
             "name": "Zoltán Szénási",
             "bio": "https://iti.abtk.hu/en/fellows/profile/122-szenasizoltan",
-            "img": "img/speakers/profile-szénási.jpg"
+            "img": "img/speakers/profile-szenasi.jpg"
         },
         {
             "name": "Katerina Tiktopoulou",
@@ -386,7 +386,7 @@ var arr = [
         {
             "name": "Benedetta Zaccarello",
             "bio": "http://www.item.ens.fr/zaccarello/",
-            "img": ""
+            "img": "img/speakers/profile-zaccarello.jpg"
         },
         {
             "name": "Monica Zanardo",
@@ -457,7 +457,7 @@ var arr = [
         {
             "name": "Antonio Di Silvestro",
             "bio": "https://www.disum.unict.it/docenti/antonio.disilvestro",
-            "img": ""
+            "img": "img/speakers/profile-disilvestro.jpg"
         },
         {
             "name": "Federico Diamanti",
@@ -482,7 +482,7 @@ var arr = [
         {
             "name": "Tomasz Mika",
             "bio": "",
-            "img": ""
+            "img": "img/speakers/profile-mika.jpg"
         },
         {
             "name": "Beatrice Mosca",
