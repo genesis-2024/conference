@@ -251,7 +251,7 @@ var arr = [
         {
             "name": "Giancarlos Nathanael Peralta Luis",
             "bio": "",
-            "img": ""
+            "img": "img/speakers/profile-peralta-luis.jpeg"
         },
         {
             "name": "Beatrice Nava",
