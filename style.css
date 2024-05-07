@@ -187,6 +187,10 @@ body {
     color: #343434;
 }
 
+.color-bubble {
+    color: #001a4c5e;
+}
+
 .color-dimgray {
     color: #001A4C;
 }
@@ -1232,3 +1236,29 @@ blockquote {
         height: auto;
     }
 }
+
+/* tips */
+.bubble-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bubble {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.7) 0%, rgba(240, 240, 240, 0.3) 50%);
+    border-radius: 50%;
+    border: 2px solid rgba(204, 204, 204, 0.5);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    
+}
+
+.bubble:hover {
+    background-color: #37486a30;
+  }
