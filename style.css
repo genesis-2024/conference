@@ -1235,6 +1235,14 @@ blockquote {
     .thumbnail {
         height: auto;
     }
+
+    .text-right,
+    .text-left {
+        text-align: center !important;
+    }
+    .journals .journals-brand {
+        margin-top: 20%;
+    }
 }
 
 /* tips */
@@ -1256,9 +1264,16 @@ blockquote {
     align-items: center;
     color: white;
     font-size: 24px;
-    
+
 }
 
 .bubble:hover {
     background-color: #37486a30;
-  }
+}
+
+/* img */
+.img-fit-available {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+}
